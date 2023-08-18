@@ -1,2 +1,2 @@
-# Chris_CPU_Scheduling_Processes
+# Chris CPU Scheduling Processes
 Ann application to test the differences in efficiency in CPU scheduling processes with a GUI. 
